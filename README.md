@@ -1,2 +1,2 @@
 # PythonCodes
-useful functions for programmers
+Useful functions for programmers
